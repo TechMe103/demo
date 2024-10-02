@@ -1,4 +1,4 @@
 # demo
 This is my first Repository
 <br>
-"name": "Sanika"
+"name": "Sanika salunkhe"
